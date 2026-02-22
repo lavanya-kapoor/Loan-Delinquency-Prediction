@@ -134,7 +134,7 @@ After removing 89 records with unrealistic debt-to-income values, the final work
 | High Risk   | >55%        | 26.7%                   |
 
 > High Risk borrowers are **nearly 5 times more likely to default** than Low Risk.
-![Risk Tiers Visualiz.](images/Risk_Tier Analysis.png)
+![Risk Tiers Visualiz.](images/Risk_Tier_Analysis.png)
 ---
 
 ## 8. Key Risk Drivers
@@ -157,7 +157,7 @@ Small business loans show a delinquency rate of 27.7%, nearly double the portfol
 
 The shift to time-based prediction allows lending teams to act proactively and manage risk more effectively. 
 
-![Dashboard](iamges/small_businesses_dashboard.png)
+![Dashboard](images/small_businesses_dashboard.png)
 ---
 
 ## 10. Recommended Actions
