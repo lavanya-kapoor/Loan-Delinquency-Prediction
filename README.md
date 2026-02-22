@@ -56,10 +56,14 @@ After removing 89 records with unrealistic debt-to-income values, the final work
 
 > Small business loans triggered a higher risk.
 
+![Delinquency Rate vs the Purpose for Loan](images/Delinquency Rates vs purpose for credit.png)
+
 ### 3.3 FICO Risk Cliff
 
 * FICO score ranges 300–850  
-* Scores **below 680** indicate delinquency risk rises sharply  
+* Scores **below 680** indicate delinquency risk rises sharply
+
+![FICO Risk Cliff Visualization](images/FICO-Risk.png)
 
 ### 3.4 Behavioural Indicators
 
@@ -129,7 +133,7 @@ After removing 89 records with unrealistic debt-to-income values, the final work
 | High Risk   | >55%        | 26.7%                   |
 
 > High Risk borrowers are **nearly 5 times more likely to default** than Low Risk.
-
+![Risk Tiers Visualiz.](images/Risk_Tiers.png)
 ---
 
 ## 8. Key Risk Drivers
@@ -152,7 +156,7 @@ Small business loans show a delinquency rate of 27.7%, nearly double the portfol
 
 The shift to time-based prediction allows lending teams to act proactively and manage risk more effectively. 
 
-![Dashboard](assets/small_businesses_dashboard.png)
+![Dashboard](iamges/small_businesses_dashboard.png)
 ---
 
 ## 10. Recommended Actions
