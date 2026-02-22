@@ -152,6 +152,7 @@ Small business loans show a delinquency rate of 27.7%, nearly double the portfol
 
 The shift to time-based prediction allows lending teams to act proactively and manage risk more effectively. 
 
+![Dashboard](assets/small_businesses_dashboard.png)
 ---
 
 ## 10. Recommended Actions
