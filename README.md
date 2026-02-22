@@ -56,7 +56,8 @@ After removing 89 records with unrealistic debt-to-income values, the final work
 
 > Small business loans triggered a higher risk.
 
-![Delinquency Rate vs the Purpose for Loan](images/Delinquency Rates vs purpose for credit.png)
+
+![FICO Risk Cliff Visualization](images/Delinquency Rates vs purpose of credit.png)
 
 ### 3.3 FICO Risk Cliff
 
