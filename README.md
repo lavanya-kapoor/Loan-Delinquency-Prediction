@@ -133,7 +133,7 @@ After removing 89 records with unrealistic debt-to-income values, the final work
 | High Risk   | >55%        | 26.7%                   |
 
 > High Risk borrowers are **nearly 5 times more likely to default** than Low Risk.
-![Risk Tiers Visualiz.](images/Risk_Tiers.png)
+![Risk Tiers Visualiz.](images/Risk_Tier Analysis.png)
 ---
 
 ## 8. Key Risk Drivers
