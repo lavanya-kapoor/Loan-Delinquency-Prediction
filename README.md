@@ -204,3 +204,6 @@ The shift to time-based prediction allows lending teams to act proactively and m
 * Time-series payment behavior  
 * Macroeconomic variables (unemployment, interest rates)    
 
+**Small Business:**
+* Dedicated classification model for small business loans — completed
+* Survival analysis to predict **time-to-delinquency** — in progress
